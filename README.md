@@ -1,1 +1,2 @@
 # html-portfolio
+The purpose of this project is to demonstate the skills that I recently learned and demonstrated what I can do with them as a small project. The project uses the image tag to display the screenshots in the project. It uses the anchor tag in order to click into the specfic project like the birthday invitation. It uses the horizontal rule element to create the space on the top to separate the content of the project.
